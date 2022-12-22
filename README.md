@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![MasterHead](https://uploads.toptal.io/blog/image/124559/toptal-blog-image-1509618028103-92545ba5595a43f04369647452dceb84.gif)
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">I'm a developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
